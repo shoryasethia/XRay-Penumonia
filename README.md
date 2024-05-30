@@ -73,5 +73,5 @@ _________________________________________________________________
 
 ![Predictions](https://github.com/shoryasethia/XRay-Penumonia/blob/main/FewPredictions.png)
 
-**If you liked this repo, do give a like**
-**Author : [@shoryasethia](https://github.com/shoryasethia)**
+- **If you liked this repo, do give a like**
+- **Author : [@shoryasethia](https://github.com/shoryasethia)**
