@@ -69,8 +69,8 @@ _________________________________________________________________
 ![Accuracy](https://github.com/shoryasethia/XRay-Penumonia/blob/main/TestValAccuracy.jpg)
 
 **Some Predictions**
-> 0 : Normal
-> 1 : PNEUMONIA
+> **0 :** NORMAL  ,   **1 :** PNEUMONIA
+
 ![Predictions](https://github.com/shoryasethia/XRay-Penumonia/blob/main/FewPredictions.png)
 
 **If you liked this repo, do give a like**
