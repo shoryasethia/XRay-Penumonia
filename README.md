@@ -16,6 +16,8 @@ cd XRay-Penumonia
 !kaggle datasets download -d paultimothymooney/chest-xray-pneumonia
 !unzip chest-xray-pneumonia.zip
 ```
+# **Access Notebook from [here](https://github.com/shoryasethia/XRay-Penumonia/blob/main/Chest_XRay.ipynb)**
+
 ### Results
 **Model Architecture**
 ```
