@@ -68,4 +68,10 @@ _________________________________________________________________
 **Model Accuracy is also descent enough for medical tasks**
 ![Accuracy](https://github.com/shoryasethia/XRay-Penumonia/blob/main/TestValAccuracy.jpg)
 
-**Predictions**
+**Some Predictions**
+> 0 : Normal
+> 1 : PNEUMONIA
+![Predictions](https://github.com/shoryasethia/XRay-Penumonia/blob/main/FewPredictions.png)
+
+**If you liked this repo, do give a like**
+**Author : [@shoryasethia](https://github.com/shoryasethia)**
